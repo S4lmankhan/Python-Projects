@@ -1,13 +1,16 @@
-PDF Merger Script
+
+---
+
+# PDF Merger Script
 
 This Python script allows you to merge multiple PDF files into a single PDF using the PyPDF2 library. Simply update the names of your PDF files and run the script to combine them into one document.
 
-Prerequisites
+## Prerequisites
 
 - Python 3.x
 - PyPDF2 library
 
- Installation
+## Installation
 
 First, ensure you have Python installed. Then, install the PyPDF2 library using pip:
 
@@ -15,7 +18,7 @@ First, ensure you have Python installed. Then, install the PyPDF2 library using 
 pip install PyPDF2
 ```
 
- Usage
+## Usage
 
 1. **Update the PDF file names**: Modify the `pdfiles` list in the script to include the names of the PDF files you want to merge. For example:
 
@@ -48,7 +51,7 @@ pip install PyPDF2
 
 4. The script will combine the specified PDF files into a single PDF named `merged_document.pdf` (or whatever name you specified).
 
-Example
+## Example
 
 Here is a complete example of the script:
 
@@ -67,14 +70,17 @@ for name in pdfiles:
 merger.write("merged_document.pdf")
 ```
 
- Contact
+## Contact
 
 If you encounter any issues or have any questions, feel free to reach out to me on Instagram: [CodeWithSalty](https://www.instagram.com/CodeWithSalty).
 
-Credits
+## Credits
 
 This script is created and maintained by [Salman Khan](https://github.com/S4lmankhan). If you find it useful, please give credit where it's due.
 
- License
+## License
 
-This script is provided under the MIT License. 
+This script is provided under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
