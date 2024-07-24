@@ -5,7 +5,6 @@ Welcome to the Python Projects Repository! This repository is a curated collecti
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project List](#project-list)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Issues and Support](#issues-and-support)
@@ -17,12 +16,6 @@ Welcome to the Python Projects Repository! This repository is a curated collecti
 
 This repository aims to provide a comprehensive set of Python projects covering a variety of topics and complexities. Each project is documented and includes clear instructions to help you understand and use the code effectively.
 
-## Project List
-
-- **Project 1**: A brief description of Project 1.
-- **Project 2**: A brief description of Project 2.
-- **Project 3**: A brief description of Project 3.
-- **And more to come!**
 
 ## Getting Started
 
